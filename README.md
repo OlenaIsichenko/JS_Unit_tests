@@ -1,5 +1,5 @@
-`JS_Unit_tests`
-====================
+`Javascript Unit tests`
+----------------
 
 Run tests by command `npm test`
-----------------
+
